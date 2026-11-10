@@ -33,4 +33,4 @@ components:
 # - components/container-images-tag-suffix
 # - components/container-images-registry
 commonAnnotations:
-  sample.example/revision: "2"
+  sample.example/revision: "5"
